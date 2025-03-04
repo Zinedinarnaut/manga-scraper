@@ -8,4 +8,9 @@ yarn-error.log*
 /.pnp
 .pnp.js
 
+.env
+
+outerhtml.txt
+manga.db
+
 .vscode/*
